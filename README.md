@@ -5,3 +5,4 @@
 * UVA10929－You Can Say 11
 * UVA10055－Hashmat the brave warrior
 * UVA10035－Primary Arithmetic
+* UVA100－The 3n + 1 problem
