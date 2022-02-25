@@ -36,7 +36,7 @@ int main(int argc, const char * argv[]) {
                     num /= 2;
                 }
             }
-            count++;
+            count++; // 將最後剩下的 1 也加起來
             if (count > max) max = count;
         }
         printf("%d %d %d\n", a1, b1, max);
