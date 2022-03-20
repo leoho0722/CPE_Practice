@@ -8,3 +8,4 @@
 * UVA100－The 3n + 1 problem
 * UVA10222－Decode the Mad man
 * UVA272－TeX Quotes
+* UVA11332－Summing Digits
