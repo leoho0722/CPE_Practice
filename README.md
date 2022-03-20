@@ -9,3 +9,4 @@
 * UVA10222－Decode the Mad man
 * UVA272－TeX Quotes
 * UVA11332－Summing Digits
+* UVA10252－Common Permutation
