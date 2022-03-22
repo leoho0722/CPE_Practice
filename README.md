@@ -11,6 +11,7 @@
 * UVA10420－List of Conquests
 
 -------------字元與字串----------------
+* UVA10008－What's Cryptanalysis?
 * UVA10222－Decode the Mad man
 * UVA11332－Problem J: Summing Digits
 * UVA10252－Common Permutation
