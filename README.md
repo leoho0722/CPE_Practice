@@ -8,7 +8,7 @@
 * UVA100－The 3n + 1 problem
 * UVA10929－You Can Say 11
 * UVA10101－Bangla Numbers
-
+* UVA10420－List of Conquests
 -------------字元與字串----------------
 * UVA10222－Decode the Mad man
 * UVA11332－Problem J: Summing Digits
