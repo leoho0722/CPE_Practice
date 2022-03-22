@@ -19,4 +19,5 @@
 * UVA272－TeX Quotes
 
 --------------數學計算-----------------
+* UVA12019－A - Doom_s Day Algorithm
 * UVA10071－Back to High School Physics
