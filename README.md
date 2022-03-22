@@ -16,3 +16,6 @@
 * UVA11332－Problem J: Summing Digits
 * UVA10252－Common Permutation
 * UVA272－TeX Quotes
+
+--------------數學計算-----------------
+* UVA10071－Back to High School Physics
